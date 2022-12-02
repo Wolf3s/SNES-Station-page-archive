@@ -1,0 +1,13 @@
+Compatibility
+June 13, 2003
+Compatibility testing is in progress for the impending release, and I will post an update once more results have been obtained
+
+
+July 21, 2002
+The emulator uses v1.37c of the Snes9x core, and should thus run all the games that the PC v1.37c will run ... However I am aware of a few exceptions to this ...
+
+Several games don't like running with sound disabled so if a game crashes/locks-up it is worth trying it with sound enabled. I will try to fix this problem in a future release of the emulator.
+
+Also a couple of C4 and SA1 based games don't behave properly. This will also be investigated for future releases.
+
+Any other issues found may be reported on the forums which will be available shortly.

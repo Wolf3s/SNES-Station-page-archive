@@ -1,0 +1,51 @@
+News
+December 22, 2003
+Finally the time that many of you have been waiting for ... A new public release is now available on the downloads page.
+This release is not as far along as I had hoped, but my time has been somewhat limited over the recent months, so consider this a "Work In Progress" release as a Christmas treat, and rest assured that the other features in development are still being worked on.
+
+Check the status page or the included readme for more information on what's new in this release
+
+
+June 13, 2003
+I have been very busy over the last few months, and there should be plenty happening over the next few weeks and months. This has been helped, in part, by the DMS3(https://web.archive.org/web/20071012025607/http://www.dms3.com/home.htm) team who have kindly offered to sponsor the continuing development work.
+
+The next release of SNES-Station should finally see the light of day fairly soon (though I will never promise specific release dates), but I am already working on many more advancements which will make it into subsequent releases.
+
+Thanks as always go to Sjeep, mrbrown, pukko, oobles, and rest of the ps2dev crew. Thanks also go to gonzo, ragnarok and Nikorasu for their contributions, and to the Gamebase crew for hosting this site.
+
+July 21, 2002
+public beta release of SNES-Station, which is now available on the downloads(https://web.archive.org/web/20071012025607fw_/http://snes-station.gamebase.ca/downloads.htm) page !
+
+Even more good news, is that this is a simultaneous release with PGEN, the Genesis/Megadrive Emulator for PS2 written by my good friend Sjeep ! PGEN is available at [OFFLINE: http://pgen.gamebase.ca However there´s mirror: https://web.archive.org/web/20071012221824/http://www.gamebase.ca/smf/index.php?PHPSESSID=807c138b23fe887ccb88a217a91ec09b;www] 
+
+This release is still a work-in-progress, and work will still be continuing, leading to further releases in the future.
+
+
+March 6, 2002
+I must apologise yet again for the lack of updates over the past several months. Personal commitments meant that I had to temporarily stop work on the emulator for a couple of months,However I have been working heavily on the emulator for the past couple of months, and have made much progress.
+
+Emulator speed has seen a few quick boosts recently, with more games running at full framerate.But there are many more optimisations still planned.
+
+Please head over to the Status page for a more technical update.
+
+
+August 20, 2001
+I must apologise for the lack of updates recently. Work on the emulator is still very much progressing, I've just been tied up with other things, and have neglected to update the site.
+
+Quite a lot of progress has been made, but there is still lots to do. Visit the Status page for more info.
+
+
+July 23, 2001
+I've fixed the screen cropping bug, but not had much time to do anything else. Oh, and if you're interested you might want to head to the screenshots page to see a piccy of Super Mario Bros I captured with my TV capture card ;o)
+
+
+July 19, 2001
+I got the emulator running properly last night (after a lot of debugging), and then spent an hour playing Super Mario Bros ;o)Take a look at the Status page for more technical information on the progress made, and the work still to be done.
+
+
+July 05, 2001
+I've been back for a couple of days, and have managed to get a little done, but am very busy with other work, so it may be a few days until I manage to get much done.
+
+
+June 15, 2001
+Updated the emulator status page. The emulator is on hold for 2 weeks as I am away, but work will continue upon my return.

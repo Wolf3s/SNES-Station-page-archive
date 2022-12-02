@@ -1,0 +1,71 @@
+BODY
+{
+	color: Black;
+	background-color: White;
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+	text-align: left;
+	background: fixed;
+	background-image: url(/web/20070730103949im_/http://snes-station.gamebase.ca/sky.jpg);
+	background-repeat: repeat-x;
+}
+
+A
+{
+	color: #FF6020;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+A:HOVER
+{
+	color: #FF6020;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+TABLE
+{
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+	text-align: left;
+	vertical-align: text-top;
+}
+
+td
+{		vertical-align: top;
+}
+
+h1
+{
+	font-size: 16pt;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2
+{
+	font-size: 12pt;
+	text-decoration: underline;
+}
+/*
+     FILE ARCHIVED ON 10:39:49 Jul 30, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:34:32 Dec 02, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 60.685
+  exclusion.robots: 0.083
+  exclusion.robots.policy: 0.072
+  RedisCDXSource: 0.677
+  esindex: 0.01
+  LoadShardBlock: 38.613 (3)
+  PetaboxLoader3.datanode: 44.5 (4)
+  CDXLines.iter: 15.692 (3)
+  load_resource: 77.885
+  PetaboxLoader3.resolve: 66.605
+*/

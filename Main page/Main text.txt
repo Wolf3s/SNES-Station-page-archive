@@ -1,0 +1,20 @@
+Welcome to the homepage of Snes-Station.
+Welcome to the new homepage of SNES-Station, a port of Snes9x (a popular SNES emulator) for the Sony PlayStation 2 Console.
+
+This emulator will allow you to play most of your favourite SNES games on your PlayStation 2 console. Compatibility and speed are not yet 100%, but this is still very much a work in progress.
+
+Please peruse the various sections of this site, for more information.
+
+
+Hiryu
+
+
+P.S. If anyone would like to make a donation, to help pay for hardware to help me continue development, or just to show your appreciation for the work put in so far, then please feel free ...
+
+PayPal/No Chex Links:
+[OFFLINE]
+https://web.archive.org/web/20071012025602/https://www.paypal.com/xclick/business=hiryu_1%40hotmail.com&item_name=SNES-Station+Donation&no_note=1&tax=0%C2%A4cy_code=GBP
+[OFFLINE However there´s a mirror: https://web.archive.org/web/20130529151617/https://www.paypal.com/home] 
+https://web.archive.org/web/20071012025602/https://www.paypal.com/affil/pal=snes.paypal%40ntlworld.com
+[OFFLINE However there´s a mirror: https://web.archive.org/web/20181225191744/https://secure.nochex.com/controlpanel/login.aspx]
+https://web.archive.org/web/20071012025602/http://www.nochex.com/payme.asap?email=azzalee.ebay@ntlworld.com

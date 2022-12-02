@@ -1,0 +1,7 @@
+Links
+[OFFLINE]
+Forums(https://web.archive.org/web/20071011195615/http://www.gamebase.ca/forums/index.php?board=5) The SNES-Station forums, kindly hosted by Gamebase.
+[OFFILINE However the mirror is: https://web.archive.org/web/20070916084538/http://www.gamebase.ca/smf/index.php?PHPSESSID=e1148877b6dd5404592c6e4a62c36e76;www]
+Gamebase(https://web.archive.org/web/20071011195615/http://www.gamebase.ca/) Dedicated to console gaming, and the hosts of this website (and PGEN).
+EmuUnlim(https://web.archive.org/web/20071011002841/http://www.emuunlim.com/) Dedicated to emulation, for all platforms.
+Snes9x(https://web.archive.org/web/20071011014136/http://www.snes9x.com/) The emulator on which SNES-Station is based.
